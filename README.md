@@ -7,7 +7,7 @@ This project performs in-depth data analysis on a UK-based e-commerce dataset, c
 ## 📦 Dataset
 
 - Source: `Online Retail.xlsx`
-- Transactions of a UK-based online retail store from 2010–2011
+- Transactions of a UK-based online retail store from 2010–2011 (5.4Lakhs rows * 8 columns)
 - Key columns: `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`
 
 ---
